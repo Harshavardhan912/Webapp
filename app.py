@@ -2,7 +2,7 @@ import streamlit as st
 import joblib 
 
 #load the joblib model 
-model_nb = joblib.load('spam')
+model_nb = joblib.load('spam.csv')
 
 #user input 
 st.title("Email message a Spam Or Ham")
