@@ -1,2 +1,1 @@
-#Email spam or Real
-webapp to print if the entered text is from a Trusted source or Not.
+Webapp to print if the entered Email message is from a Trusted source or Not.
